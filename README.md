@@ -1,1 +1,1 @@
-# gitmerge1.1
+# gitmerge1.2
